@@ -1,2 +1,2 @@
 # Sinus-Detection
-![Alt text]/(Sinus_approach.png)
+![Proposed approach] (Sinus_approach.png)
